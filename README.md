@@ -6,4 +6,4 @@ In this project, I'll be creating a simple website that shows some recipes.This 
 
 There will be an index page and four recipe pages.
 
-End Date -
+End Date - 08-Jan-24
